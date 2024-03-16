@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anurag831
+- 👋 Hi, I’m Anurag
 - 👀 I’m interested in development
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on 
