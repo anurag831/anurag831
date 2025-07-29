@@ -62,8 +62,3 @@ I love solving complex problems, experimenting with new frameworks, and explorin
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anurag831\&show_icons=true\&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anurag831\&layout=compact\&theme=radical)
-
----
-
-Would you like me to **add a "Current Projects" section** (where we can list your Spring Boot microservices project + portfolio updates) and **make the badges colorful & consistent (like GitHub-style cards)**?
-Also, do you want a **"Roadmap" section** to showcase what you’re planning to learn next (React Native, Docker, etc.)?
